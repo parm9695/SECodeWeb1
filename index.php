@@ -69,10 +69,7 @@ session_start();
 
         </div>
         </section  >
-        <section class="aboutUs" id="aboutUs">
         
-        </div>
-        </section  >
 </main>       
         <?php include_once('includes/footer.php') ?>
 
