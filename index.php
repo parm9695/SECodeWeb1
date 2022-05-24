@@ -30,25 +30,6 @@ session_start();
 <h3 data-speed="-2" class="home-parallax">find your car</h3>
 
 <img data-speed="5" class="home-parallax" src="image/car.png" width="1250px"  alt="">
-
-
-
-            <!-- <div class="swiper mySwiper">
-      <div class="swiper-wrapper">
-        <div class="swiper-slide"><img src="image/Audi car.png" alt=""></div>
-        <div class="swiper-slide"><img src="image/Bugatti car.png" alt=""></div>
-        <div class="swiper-slide"><img src="image/Ferrari car.png" alt=""></div>
-        <div class="swiper-slide"><img src="image/lamborghini (1).png" alt=""></div>
-        <div class="swiper-slide"><img src="image/McLaren car.png" alt=""></div>
-        <div class="swiper-slide"><img src="image/Porsche car.png" alt=""></div>
-
-        
-      </div>
-      </section>
-      <div class="swiper-button-next"></div>
-      <div class="swiper-button-prev"></div>
-      <div class="swiper-pagination"></div>
-    </div> -->
             </div>
         </div>
     <section class="brand" id="brand">
@@ -89,37 +70,7 @@ session_start();
         </div>
         </section  >
         <section class="aboutUs" id="aboutUs">
-        <!-- <div class="container py-5">
-            <div class="row">
-                <div class="col-12">
-                    <center><h1>About Us</h1></center>
-                    <div class="swiper brandCar" >
-                        <div class="swiper-wrapper">
-                            
-                            <div class="swiper-slide">
-                            <a href="https://www.facebook.com/Thitiphat.Soisungnoen"target="_blank"><img src="image/Teeno.png" /></a> 
-                            <p class="mt-4">Thitiphat Soisungnoen</p>
-                            </div>
-                            <div class="swiper-slide">
-                            <a href="https://www.facebook.com/atomza.jinouga"target="_blank"><img src="image/tom1.png" /></a>
-                            <p class="mt-4">Natchapon Paikor</p> 
-                            </div>
-                            <div class="swiper-slide">
-                            <a href="https://www.facebook.com/SwissKiTKaT/"target="_blank"><img src="image/P.png" /></a> 
-                            <p class="mt-4">Chanathip Charoenchongsuk</p>
-                            </div>
-                            <div class="swiper-slide">
-                            <a href="https://www.facebook.com/karnkit.chaisingthong" target="_blank"><img src="image/karn.jpg" /></a>
-                            <p class="mt-4">Karnkit Chaisingthong</p> 
-                            </div>
-                            
-                        </div>
-                        <div class="swiper-pagination "></div>
-                        
-                    </div>
-                </div>
-            </div> -->
-                  
+        
         </div>
         </section  >
 </main>       
